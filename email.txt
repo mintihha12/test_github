@@ -1,1 +1,3 @@
 email send to user
+
+"email sending to the new normal user"
